@@ -1,11 +1,8 @@
 # Parts-Finder: A Personalized Component Recommendation System🛠
- Experience the future of PC building with Gen AI, where innovation meets customization. Our cutting-edge platform revolutionizes your PC setup by offering personalized component recommendations and generating unique configurations tailored just for you. Explore our virtual try-on feature to visualize your dream build effortlessly. Engage in tech-forward conversations and get expert advice with our AI-powered chatbot. 
- 
- Elevate your PC building game with Gen AI and discover a new era of effortless customization. 
-Choosing compatible computer components that also complement each other in terms of performance and aesthetics is challenging. 
+## Introduction
+Welcome to the future of PC building! 🚀 Our project, Gen AI for Streamlined PC Building, is here to revolutionize the way you choose computer components. Say goodbye to the complexities of compatibility and performance balancing, and hello to personalized recommendations that match your style and preferences. 🎮💡
 
-Our goal is to develop a recommendation system that helps users overcome these challenges by suggesting components similar to their desired system configuration.
-Our solution utilizes Gen AI and Intel tools to analyze user requirements and recommend compatible computer components. By considering compatibility, performance, brand preferences, and aesthetic characteristics, we provide personalized recommendations that enhance the user experience.
+Powered by Gen AI, our system analyzes your requirements and suggests components that not only fit perfectly together but also align with your performance needs and aesthetic taste. 🤖⚙️ With the support of Intel tools, we ensure optimized performance and efficiency, making the process fast and reliable. 🛠️✨ Experience the ease and confidence of building your dream PC with Gen AI for Streamlined PC Building. Let's embark on this exciting journey together! 💻🔧
 # Goals
 1.Simplify the selection of computer components for users.
 
